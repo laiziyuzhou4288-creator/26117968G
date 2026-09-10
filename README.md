@@ -1,25 +1,32 @@
-Introduction
+#Why are we here?
+
+##Introduction
 
 With the rapid development and widespread integration of artificial intelligence today, technology is no longer a major obstacle to bringing creative ideas to life. Anyone can now input natural language prompts to direct a machine, delegating complex tasks with minimal effort. However, as we frequently explore and debate in class, defining the proper boundaries for AI usage has become essential. Machines cannot replace genuine human thought; they can only generate option sets based on existing patterns. While this shift may seem to make the design process far more accessible, relying solely on automated outputs actually restricts our creative freedom. Learning the fundamentals of programming empowers us to use machines effectively as tools while keeping full aesthetic control and creative leadership in our own hands.
 
-1. From "Vague Descriptions" to "Precise Specifications"
+##1. From "Vague Descriptions" to "Precise Specifications"
 
 When an artist imagines a "dreamy and warm afternoon lawn," they can immediately picture a concrete scene grounded in reality and personal emotion, translating that vision directly onto canvas with their own hands. However, if that same artist feeds the phrase into an AI model, the machine can only generate an image based on the datasets and stylistic biases it has learned. Even when the artist continuously refines the prompt using natural language—asking for "brighter lighting" or "a more relaxed posture"—reaching the precise vision in their mind remains difficult and frustrating. This highlights the first major value of learning to program: it bridges the communication gap between human intent and machine execution, transforming vague descriptions into precise, tangible design outcomes.
 
 As a multimedia entertainment designer, failing to understand the code and logic behind digital media leaves me trapped on the receiving end of a "black box." I would be forced to accept whatever the system produces, endlessly tweaking prompts through vague language and settling for whatever options the AI presents. Having a foundational grasp of programming enables me to understand the parameters, data structures, and script logic behind various visual and interactive effects. This knowledge allows me to fine-tune my work with mathematical precision whenever necessary, ensuring that my original aesthetic vision is realized without compromise.
 
-2. Technology Defines the Boundaries of Creativity: From "Tamed by the Black Box" to "Mastering the Medium"
+##2. Technology Defines the Boundaries of Creativity: From "Tamed by the Black Box" to "Mastering the Medium"
 
 Every creator must maintain mastery over the tools of their trade: just as a traditional painter understands pigment chemistry to mix exact shades, and a photographer masters camera exposure to capture fleeting light, digital media designers must understand how to manipulate digital technology directly. Don Ihde introduced the theory of "Technological Mediation," explaining that "technology is never a neutral tool; it amplifies certain perceptions while reducing others, reshaping the way humans connect with the world [1]." The second value of learning to code lies in breaking the vicious cycle of becoming conditioned by automated machine outputs, restoring true control over our media back to ourselves.
 
 Technology governs how media functions and determines the ultimate quality of creative output. As designers, we must build the capability to manipulate media freely rather than delegating control to automated models. Without an understanding of algorithms and underlying computational mechanics, it is difficult to perceive which creative ideas are technically feasible or which interactive media are most appropriate for a given experience. Without code, AI becomes an invisible wall between the creator and the final work; programming skills break down this wall, removing technical constraints and allowing original creativity to thrive.
 
-3. From "Passive Questioner" to "Chief Examiner"
+##3. From "Passive Questioner" to "Chief Examiner"
 
 Jeannette Wing defined "Computational Thinking" in her influential research, emphasizing that computational thinking is not about "thinking like a computer," but rather the "ability to abstract, modularize, evaluate, and debug complex problems [2]." This mindset transcends specific syntax or language frameworks; it represents a high-level critical cognitive skill and is precisely what I aim to cultivate in this creative coding course. A single semester of programming study may not turn me into a software engineer, but familiarity with code provides the technical foundation needed to evaluate AI outputs critically. The third significance of learning to program is the transformation from a passive questioner into a chief examiner who directs the entire design system. Equipped with computational thinking, AI-generated solutions cease to be mysterious final answers; instead, they become modular components that can be deconstructed, analyzed, questioned, and debugged. I can assess whether a generated script is elegant, efficient, or scalable, applying critical analysis before making informed design choices.
 
-Conclusion
+##Conclusion
 
 As early as 1843, Ada Lovelace made a remarkable prediction in Note G: the Analytical Engine had the potential to process more than just numerical values—as long as real-world phenomena could be abstracted into formal rules and symbols, the machine could compose music and generate art (Menabrea, 1843) [3]. Yet, Lovelace recognized that machines lack independent creative intent and only operate according to the rules provided by human creators. Creative coding is the bridge where human imagination meets technical skill, enabling us to guide machines toward producing meaningful work.
 
 Programming syntax will continue to evolve, and machine capabilities will advance, but technology cannot generate intrinsic meaning without human direction. Those who seek quick shortcuts or avoid rigorous thought end up surrendering their agency to automated systems, leading to uninspired work. We study programming not merely to write code, but to remind ourselves that maintaining independent critical thought while collaborating with AI is the only way to maximize the strengths of both human intuition and machine efficiency.
+
+##References
+*[1] Ihde, D. (1990). Technology and the Lifeworld: From Garden to Earth. Indiana University Press. http://www.jstor.org/stable/jj.33903449
+*[2] Wing, J. M. (2006). Computational thinking. Communications of the ACM, 49(3), 33–35. https://doi.org/10.1145/1118178.1118215
+*[3] Menabrea, L. F. (2015). Sketch of the Analytical Engine invented by Charles Babbage, Esq. In Ada’s Legacy: Cultures of Computing from the Victorian to the Digital Age. Association for Computing Machinery and Morgan & Claypool. https://doi.org/10.1145/2809523.2809528
